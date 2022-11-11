@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaelgadelha
-- 👀 I’m interested in web develop
+- 👀 I’m interested in web developer
 - 🌱 I’m currently learning HTML, CSS and JS
 
 ---
