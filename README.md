@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaelgadelha
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning HTML, CSS, JS and C#
 
 ---
 
