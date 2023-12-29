@@ -14,8 +14,8 @@
 
 ---
 <div>
-    <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgadelha&layout=compact"/>
-    <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=rafaelgadelha&show_icons=true&theme=radical" />
+    <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgadelha&layout=compact"/>
+    <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api?username=rafaelgadelha&show_icons=true&theme=radical" />
 </div>
 
 
