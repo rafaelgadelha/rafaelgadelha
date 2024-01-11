@@ -18,7 +18,10 @@
     - C++
 
 </div>
-  <img src="./Imgs/profile.svg" alt="pessoa-utilizando-quadro" width="300" style="margin-left: 20px; border-radius: 20%;">
+<div>
+  <img src="./Imgs/profile.svg" alt="pessoa-utilizando-quadro" width="600" style="margin-left: 20px; border-radius: 20%;">
+</div>
+
 </div>
 
   ---
