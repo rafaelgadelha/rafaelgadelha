@@ -34,6 +34,8 @@
       <img src="https://img.shields.io/badge/.NET-1572B6?style=for-the-badge&logo=.NET&logoColor=white" />
       <img src="https://img.shields.io/badge/cSharp-1572B6?style=for-the-badge&logo=C#&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=PHP&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FE2D1F?style=for-the-badge&logo=Laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-1488C6?style=for-the-badge&logo=docker&logoColor=white" />
   <div>
 </div>
 
