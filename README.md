@@ -13,6 +13,9 @@
     - CSS
     - JavaScript
     - C#
+    - Laravel
+    - PHP
+    - Mysql
 
   - **Desenvolvimento de Sistemas Embarcados:**
     - C++
